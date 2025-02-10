@@ -1,0 +1,10 @@
+"fastapi[standard]"
+deep-translator
+langchain-core
+langchain
+gtts
+openai-whisper
+pymupdf
+sentence-transformers
+chromadb
+
